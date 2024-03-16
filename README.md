@@ -3,7 +3,7 @@
 ## General Information
 This is my second project of my collage study
 Its terminal-based application where you can create carshowroom container, add showrooms and put vehicles in it.
-Showroom contains mupltiple methods where you can add, get, remove, search, sort Vehicles and more. 
+Showroom contains mupltiple methods where you can get, remove, search, sort Vehicles and more. 
 
 It implements the basic usage of enum class, Comparable and Comparator interface and Collections framework.
 
