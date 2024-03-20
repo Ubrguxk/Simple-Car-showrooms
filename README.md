@@ -1,7 +1,6 @@
 # Simple 2D and 3D figures calculator - begginer JAVA project 
 
 ## General Information
-This is my second project of my collage study
 Its terminal-based application where you can create carshowroom container, add showrooms and put vehicles in it.
 Showroom contains multiple methods where you can get, remove, search, sort Vehicles and more. 
 
