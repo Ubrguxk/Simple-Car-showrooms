@@ -1,4 +1,4 @@
-# Simple 2D and 3D figures calculator - begginer JAVA project 
+# Simple 2D and 3D figures calculator
 
 ## General Information
 Its terminal-based application where you can create carshowroom container, add showrooms and put vehicles in it.
