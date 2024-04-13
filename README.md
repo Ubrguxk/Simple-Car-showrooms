@@ -14,4 +14,4 @@ This is also small project. All methods can be tested by uncommenting lines in m
 If i find the time, I will implement the menu, but alle the functinality is implemented, which is most important.
 
 ## Acknowledgements
-All the structure and content in this project was given by my teacher.
+Project structure was planned by my teacher. 
